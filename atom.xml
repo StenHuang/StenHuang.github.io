@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/huangsc</id>
+    <title>雾舒</title>
+    <updated>2024-07-14T04:09:20.246Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/huangsc"/>
+    <link rel="self" href="https://github.com/huangsc/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://github.com/huangsc/images/avatar.png</logo>
+    <icon>https://github.com/huangsc/favicon.ico</icon>
+    <rights>All rights reserved 2024, 雾舒</rights>
+</feed>
